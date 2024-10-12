@@ -2,8 +2,9 @@
 A command Line interface for playing audios in zsh or bash terminals
 
 Dependencies: you must install the python audioplayer lib on your computer,to install follow the instructions bellow:
-git clone https://github.com/mjbrusso/audioplayer.git 
-cd audioplayer
+
+git clone https://github.com/mjbrusso/audioplayer.git /
+cd audioplayer /
 python3 setup.py install --user
 
 when you finished,just move the main.py file to the ~/ path 
