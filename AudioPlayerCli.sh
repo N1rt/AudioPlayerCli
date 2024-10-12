@@ -1,4 +1,4 @@
-#!/bin/env zsh
+#!/bin/bash
 sleep 1
 clear
 figlet "*#AudioPlayer Cli#*"
@@ -9,7 +9,7 @@ sleep 1
 echo -e "${IGreen}Playing Audio...${NC}"
 sleep 1 
 echo "Press Ctrl-Z to stop the audio..."
-python3 ~/main.py $AUDIO_PATH 
+python3 main.py $AUDIO_PATH 
 echo "Audio Has ended..."
 time 
 sleep 1
