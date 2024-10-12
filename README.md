@@ -10,5 +10,7 @@ cd audioplayer /
 python3 setup.py install --user
 
 when you finished,just move the main.py file to the ~/ path 
+
 run the command :sudo chmod 700 AudioPlayerCli.sh to add permission to execute the file
+
 and execute the AudioPlayerCli.sh
