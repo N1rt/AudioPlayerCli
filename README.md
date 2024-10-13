@@ -1,6 +1,8 @@
 # AudioPlayerCli
 A command Line interface for playing audios in bash terminal
 
+![image](https://github.com/user-attachments/assets/907dc9a2-594c-4285-8c29-762a2a0b0adf)
+
 Dependencies: you must install the python audioplayer lib on your computer,to install follow the instructions bellow:
 
 sudo apt-get install python-gst-1.0 \ 
@@ -25,3 +27,4 @@ when you finished,now you can download the script:
 run the command :sudo chmod 700 AudioPlayerCli.sh to add permission to execute the file
 
 and execute the ./AudioPlayerCli.sh
+
