@@ -1,6 +1,5 @@
 from audioplayer import AudioPlayer
-import sys 
-import audioplayer
+import sys  
 
 path = sys.argv[1]
 Audio = AudioPlayer(path)
