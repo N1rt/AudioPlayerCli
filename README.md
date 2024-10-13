@@ -27,5 +27,5 @@ when you finished,now you can download the script:
 run the command :sudo chmod 700 AudioPlayerCli.sh to add permission to execute the file
 
 and execute the ./AudioPlayerCli.sh
-if you want to run the command without typing ./ just move the AudioPlayerCli.sh and main.py to /usr/local/bin/ and now you can run the command just typing AudioPlayerCli in everywere 
+if you want to run the command without typing ./ just move the AudioPlayerCli.sh and main.py to /usr/local/bin/ and now you can run the command just typing AudioPlayerCli.sh in everywere 
 
