@@ -10,7 +10,7 @@ sudo apt-get install python-gst-1.0 \
                      gstreamer1.0-plugins-good \
                      gstreamer1.0-plugins-ugly 
                      
-when you finished,run the command:pip install audioplayer
+when you finished,go to the AudioPlayerCli directory and run the command:pip install -r requirements.txt
 
 if this donsen't work,you can install with git clone:
 
