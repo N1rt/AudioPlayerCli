@@ -14,7 +14,7 @@ sudo apt-get install python-gst-1.0 \
                      
 when you finished,go to the AudioPlayerCli directory and run the command:pip install -r requirements.txt
 
-if this donsen't work,you can install with git clone:
+if this doesn't work,you can install with git clone:
 
 git clone https://github.com/mjbrusso/audioplayer.git
 
